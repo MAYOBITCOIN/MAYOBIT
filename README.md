@@ -1,0 +1,2 @@
+# MAYOBIT
+BTC,LTC Trading
